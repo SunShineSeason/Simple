@@ -11,5 +11,7 @@ public class CalendarTestDrive {
 		calendar.createCalendar(appts);
 		calendar.print();
 		System.out.println(“Sunshine Season”);
+		//System.out.println("Delete the file");
+		System.out.println("sunshine  for  test !!");
 	}
 }
