@@ -10,5 +10,6 @@ public class CalendarTestDrive {
 		List<String> appts = Arrays.asList("appt 1", "appt 2");
 		calendar.createCalendar(appts);
 		calendar.print();
+		System.out.println(“Sunshine Season”);
 	}
 }
