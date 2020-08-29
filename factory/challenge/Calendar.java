@@ -14,5 +14,4 @@ public abstract class Calendar {
 		System.out.println("This is sunshineseason");
 	}
 	public abstract void createCalendar(List<String> appointments);
-	Hello!!!!!!!!!!!!!!!!!!!!
 }
