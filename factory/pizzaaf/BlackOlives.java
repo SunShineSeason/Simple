@@ -2,7 +2,7 @@ package learning.factory.pizzaaf;
 
 public class BlackOlives implements Veggies {
 	
-	String str = "fwu3 username : update at 1:6";
+	String str = "fwu3 username : update at 15:47";
 
 	**********************************************
 	public String toString() {
