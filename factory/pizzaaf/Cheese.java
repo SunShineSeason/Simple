@@ -1,6 +1,7 @@
 package learning.factory.pizzaaf;
 
 public interface Cheese {
-	String str = "sunsihne" ;
+	
+	String str = "fwu3:17777" ;
 	public String toString();
 }
