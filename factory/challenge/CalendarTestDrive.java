@@ -15,5 +15,6 @@ public class CalendarTestDrive {
 		System.out.println("sunshine  for  test !!");
 		System.out.println("I love you! 16:33 ");
 		System.out.println("11:17");
+		System.out.println("sunshine: 8/30  11:49");
 	}
 }
