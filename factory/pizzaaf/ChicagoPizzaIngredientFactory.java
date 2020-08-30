@@ -3,6 +3,8 @@ package learning.factory.pizzaaf;
 public class ChicagoPizzaIngredientFactory 
 	implements PizzaIngredientFactory 
 {
+	Steing fwu3;
+	222222******************8 *******8fwu3******************
 
 	public Dough createDough() {
 		return new ThickCrustDough();
