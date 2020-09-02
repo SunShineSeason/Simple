@@ -2,9 +2,11 @@ package learning.factory.pizzafm;
 
 public class ChicagoStylePepperoniPizza extends Pizza {
 	public ChicagoStylePepperoniPizza() {
-		name = "Chicago Style Pepperoni Pizza";
+		name = "Chicago Style Pepperoni Pizza ******************** fwu33";
 		dough = "Extra Thick Crust Dough";
 		sauce = "Plum Tomato Sauce";
+		
+		System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
  
 		toppings.add("Shredded Mozzarella Cheese");
 		toppings.add("Black Olives");
