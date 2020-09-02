@@ -2,7 +2,8 @@ package learning.factory.pizzafm;
 
 public class ChicagoStylePepperoniPizza extends Pizza {
 	public ChicagoStylePepperoniPizza() {
-		name = "Chicago Style Pepperoni Pizza ******************** fwu3 ************************at 9/2 10:24";
+		name = "Chicago Style Pepperoni Pizza ******************** shushine ************************at 9/2 10:24";
+		********************************************* sunshine ****************
 		dough = "Extra Thick Crust Dough";
 		sauce = "Plum Tomato Sauce";
 		

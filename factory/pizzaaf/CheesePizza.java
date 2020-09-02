@@ -4,7 +4,7 @@ package learning.factory.pizzaaf;
  * 通过工厂将 披萨 和 具体的原料 解耦：
  * */
 public class CheesePizza extends Pizza {
-	PizzaIngredientFactory ingredientFactoryFWU31333_16_32;
+	PizzaIngredientFactory ingredientSunshine*************;
  
 	public CheesePizza(PizzaIngredientFactory ingredientFactory) {
 		this.ingredientFactory = ingredientFactory;
