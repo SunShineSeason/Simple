@@ -2,7 +2,7 @@ package learning.factory.pizzafm;
 
 public class ChicagoPizzaStore extends PizzaStore {
 
-	Pizza createPizza(String item) {
+	Pizza createPizza(String item,Interger HelooWOrld) {
 		System.out.println("******** fwu3 ************");
         	if (item.equals("cheese")) {
             		return new ChicagoStyleCheesePizza();
