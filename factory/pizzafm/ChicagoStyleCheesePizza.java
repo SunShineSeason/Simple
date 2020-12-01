@@ -3,7 +3,7 @@ package learning.factory.pizzafm;
 public class ChicagoStyleCheesePizza extends Pizza {
 
 	public ChicagoStyleCheesePizza() { 
-		name = "Chicago Style Deep Dish Cheese Pizza************* fwu3";
+		name = "Chicago Style Deep Dish Cheese Pizza***I love you!!!!!";
 		dough = "Extra Thick Crust Dough";
 		sauce = "Plum Tomato Sauce";
  
