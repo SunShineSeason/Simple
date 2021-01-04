@@ -1,0 +1,3 @@
+[submodule "MyPractices"]
+	path = MyPractices
+	url = https://github.com/SunShineSeason/MyPractices.git
